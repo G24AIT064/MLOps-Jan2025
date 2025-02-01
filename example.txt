@@ -1,1 +1,1 @@
-This is assignment1 .
+Completely new content in example.txt for G24AIT063 branch.
